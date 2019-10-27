@@ -4,7 +4,7 @@ This API is a dynamic Classroom and User registration process, which will be use
 
 ## Auth User (optional):
 
-## Login:
+### Login:
 * URL: ```https://testing-255716.appspot.com/users/login```
 * Method: ```POST```
 * Body: 
@@ -15,7 +15,7 @@ This API is a dynamic Classroom and User registration process, which will be use
 	}
 	```
 
-## Logout:
+### Logout:
 * URL: ```https://testing-255716.appspot.com/users/logout```
 * Method: ```POST```
 * Body: ```{}```
