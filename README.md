@@ -2,7 +2,7 @@
 
 This API is a dynamic Classroom and User registration process, which will be usefull for institution that needs a digital solution to help them solve registration process problem
 
-## Auth User (optional):
+## Auth User:
 
 ### Login:
 * URL: ```https://testing-255716.appspot.com/users/login```
